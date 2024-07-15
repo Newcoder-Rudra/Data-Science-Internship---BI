@@ -1,2 +1,2 @@
-# Data-Science-Internship---BI
+# Data-Science-Internship-BI
 Insightful Projects 
